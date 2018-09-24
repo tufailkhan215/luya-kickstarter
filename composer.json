@@ -1,14 +1,14 @@
 {
-    "name": "luyadev/luya-kickstarter",
-    "description": "The kickstarter project for a new LUYA application.",
-    "type": "luya-kickstarter",
+    "name": "luyadev/inx-rms",
+    "description": "The project for a new application.",
+    "type": "inx-rms",
     "license":"MIT",
     "require": {
-        "luyadev/luya-core" : "~1.0.0",
-        "luyadev/luya-module-admin" : "~1.2.0",
-        "luyadev/luya-module-cms" : "~1.0.0",
-        "luyadev/luya-bootstrap3" : "~1.0.0",
-        "luyadev/luya-generic" : "~1.0.0"
+        "luyadev/inx-core" : "~1.0.0",
+        "luyadev/inx-module-admin" : "~1.2.0",
+        "luyadev/inx-module-cms" : "~1.0.0",
+        "luyadev/inx-bootstrap3" : "~1.0.0",
+        "luyadev/inx-generic" : "~1.0.0"
     },
     "require-dev": {
         "yiisoft/yii2-gii" : "~2.0.0",
